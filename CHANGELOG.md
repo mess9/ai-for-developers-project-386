@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/mess9/ai-for-developers-project-386/compare/v1.0.1...v1.0.2) (2026-06-13)
+
+
+### Bug Fixes
+
+* **docker:** app + PostgreSQL в одном образе для автопроверки Hexlet ([850e43f](https://github.com/mess9/ai-for-developers-project-386/commit/850e43f9d9914f3d71a13da4b40fd186874215eb))
+
 ## [1.0.1](https://github.com/mess9/ai-for-developers-project-386/compare/v1.0.0...v1.0.1) (2026-06-12)
 
 
